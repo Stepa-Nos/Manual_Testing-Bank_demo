@@ -16,13 +16,13 @@
 <img width="1245" alt="Screenshot 2023-06-21 at 11 05 48" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/26fe6f36-9bfa-46a6-b2f2-806080d78e28">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 14 50" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/34ab78ea-c4b0-488a-b50a-a994fcc9fca8">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 14 59" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/7870bc3a-27e1-444e-8c71-82dd616d02cd">
+<img width="1241" alt="Screenshot 2023-06-21 at 11 07 37" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0a647414-454c-4d10-9209-ef2bd7135909">
+<img width="1266" alt="Screenshot 2023-06-21 at 11 07 58" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/170c68f8-65e5-4d68-85d8-af1fe3f251aa">
+<img width="1268" alt="Screenshot 2023-06-21 at 11 08 13" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0574cc90-6ca2-4350-8aa2-542d7b2563fb">
+<img width="1268" alt="Screenshot 2023-06-21 at 11 08 31" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/14093209-609c-424c-b52b-2fddc9e3131d">
 
 
 ## 🪲 Bugs's
 <img width="638" alt="Screenshot 2023-06-11 at 16 56 28 1" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/e4ef14d2-256e-4898-a68a-296cb4c0f132">
 <img width="642" alt="Screenshot 2023-06-11 at 16 57 30" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/e5197391-eaab-463f-acde-69853c76dc4c">
 <img width="953" alt="Screenshot 2023-06-21 at 11 03 49" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/70c2eb7c-1d71-49e8-9114-55b3cefae4f8">
-<img width="1241" alt="Screenshot 2023-06-21 at 11 07 37" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0a647414-454c-4d10-9209-ef2bd7135909">
-<img width="1266" alt="Screenshot 2023-06-21 at 11 07 58" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/170c68f8-65e5-4d68-85d8-af1fe3f251aa">
-<img width="1268" alt="Screenshot 2023-06-21 at 11 08 13" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0574cc90-6ca2-4350-8aa2-542d7b2563fb">
-<img width="1268" alt="Screenshot 2023-06-21 at 11 08 31" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/14093209-609c-424c-b52b-2fddc9e3131d">
