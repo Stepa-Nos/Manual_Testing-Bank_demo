@@ -15,7 +15,7 @@
 ## 💼 Test case 
 <img width="1245" alt="Screenshot 2023-06-21 at 11 05 48" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/26fe6f36-9bfa-46a6-b2f2-806080d78e28">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 14 50" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/34ab78ea-c4b0-488a-b50a-a994fcc9fca8">
-<img width="1241" alt="Screenshot 2023-06-21 at 11 07 37" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0a647414-454c-4d10-9209-ef2bd7135909">
+<img width="1440" alt="Screenshot 2023-06-11 at 16 14 59" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/7870bc3a-27e1-444e-8c71-82dd616d02cd">
 <img width="1266" alt="Screenshot 2023-06-21 at 11 07 58" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/170c68f8-65e5-4d68-85d8-af1fe3f251aa">
 <img width="1268" alt="Screenshot 2023-06-21 at 11 08 13" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/0574cc90-6ca2-4350-8aa2-542d7b2563fb">
 <img width="1268" alt="Screenshot 2023-06-21 at 11 08 31" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/14093209-609c-424c-b52b-2fddc9e3131d">
