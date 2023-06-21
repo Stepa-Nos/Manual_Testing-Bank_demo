@@ -14,7 +14,6 @@
 
 ## 💼 Test case 
 <img width="1245" alt="Screenshot 2023-06-21 at 11 05 48" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/26fe6f36-9bfa-46a6-b2f2-806080d78e28">
-<img width="1440" alt="Screenshot 2023-06-11 at 16 14 43" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/1c1a9483-1a1f-4f54-9e70-87e4f9277f8e">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 14 50" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/34ab78ea-c4b0-488a-b50a-a994fcc9fca8">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 14 59" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/7870bc3a-27e1-444e-8c71-82dd616d02cd">
 <img width="1440" alt="Screenshot 2023-06-11 at 16 15 04" src="https://github.com/Stepa-Nos/Manual_Testing-Bank_demo/assets/83469457/c6d24ece-d049-4dba-adc9-4a99d46c16d7">
